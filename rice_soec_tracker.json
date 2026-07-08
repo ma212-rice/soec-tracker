@@ -2979,5 +2979,93 @@
     "source_url_2": "",
     "verified": true,
     "department": "CHBE"
+  },
+  {
+    "faculty_name": "Cynthia Reinhart-King",
+    "activity_type": "Collaboration",
+    "description": "Leading a newly CPRIT-funded project examining the role age plays in how ovarian cancer spreads.",
+    "organization_venue": "Cancer Prevention and Research Institute of Texas (CPRIT)",
+    "date_period": "June 8, 2026",
+    "source_url_1": "https://news.rice.edu/news/2026/new-cprit-awards-expand-rice-cancer-research-efforts",
+    "source_url_2": "",
+    "verified": true,
+    "department": "BIOE"
+  },
+  {
+    "faculty_name": "Julea Vlassakis",
+    "activity_type": "Award / Honor",
+    "description": "Won $1.1 million in federal funding through a DoD Peer Reviewed Cancer Research Program Career Development Award to study the proteins driving Ewing sarcoma.",
+    "organization_venue": "U.S. Department of Defense — Congressionally Directed Medical Research Programs",
+    "date_period": "June 23, 2026",
+    "source_url_1": "https://news.rice.edu/news/2026/rice-bioengineer-wins-federal-award-ewing-sarcoma-research",
+    "source_url_2": "",
+    "verified": true,
+    "department": "BIOE"
+  },
+  {
+    "faculty_name": "Mario Escobar",
+    "activity_type": "Published Paper",
+    "description": "First author on a study showing CRISPR/Cas-based activation of PPARGC1A boosts endogenous mitochondria and enhances cardiac function and recovery after myocardial infarction, published in Molecular Therapy.",
+    "organization_venue": "Molecular Therapy",
+    "date_period": "March 9, 2026",
+    "source_url_1": "https://news.rice.edu/news/2026/crispr-based-technique-unlocks-healing-power-mitochondria-heart-failure-therapy",
+    "source_url_2": "",
+    "verified": true,
+    "department": "BIOE"
+  },
+  {
+    "faculty_name": "Pedro J.J. Alvarez",
+    "activity_type": "Collaboration",
+    "description": "Rice WaTER Institute (director: Alvarez) partners with IDE Technologies to conduct joint research on desalination, brine management, and PFAS treatment, establishing a test-bed system at Rice.",
+    "organization_venue": "Rice WaTER Institute / IDE Technologies",
+    "date_period": "March 24, 2026",
+    "source_url_1": "https://news.rice.edu/news/2026/rice-water-institute-and-ide-technologies-collaborate-advance-water-treatment-solutions",
+    "source_url_2": "",
+    "verified": true,
+    "department": "CEE"
+  },
+  {
+    "faculty_name": "Nishal Shah",
+    "activity_type": "Collaboration",
+    "description": "Leads the computational team developing algorithms to decode neural signals for robotic control as Rice and Baylor College of Medicine join the BrainGate consortium — the sixth team overall and first in Texas — to advance brain-computer interfaces for people with tetraplegia.",
+    "organization_venue": "BrainGate Consortium / Baylor College of Medicine",
+    "date_period": "May 28, 2026",
+    "source_url_1": "https://news.rice.edu/news/2026/clinical-trial-seeks-advance-intuitive-assistive-robotics-people-paralysis",
+    "source_url_2": "",
+    "verified": true,
+    "department": "ECE"
+  },
+  {
+    "faculty_name": "Peter B. Lillehoj",
+    "activity_type": "Collaboration",
+    "description": "Leading a newly CPRIT-funded project aimed at improving cancer-fighting T cells.",
+    "organization_venue": "Cancer Prevention and Research Institute of Texas (CPRIT)",
+    "date_period": "June 8, 2026",
+    "source_url_1": "https://news.rice.edu/news/2026/new-cprit-awards-expand-rice-cancer-research-efforts",
+    "source_url_2": "",
+    "verified": true,
+    "department": "MECH"
+  },
+  {
+    "faculty_name": "Christina Tringides",
+    "activity_type": "Award / Honor",
+    "description": "Named a 2026 Pew Biomedical Scholar — the first Rice faculty member to earn the distinction — supporting a four-year project on how glioblastoma grows and spreads into healthy brain tissue.",
+    "organization_venue": "Pew Charitable Trusts",
+    "date_period": "June 2026",
+    "source_url_1": "https://news.rice.edu/news/2026/rices-tringides-wins-prestigious-pew-biomedical-scholar-award",
+    "source_url_2": "",
+    "verified": true,
+    "department": "MSNE"
+  },
+  {
+    "faculty_name": "Guilherme Marega",
+    "activity_type": "New Appointment",
+    "description": "Joined Rice University as Assistant Professor of Materials Science and NanoEngineering, researching nanosystems based on two-dimensional semiconductors for advanced computing devices.",
+    "organization_venue": "Rice University Department of Materials Science and NanoEngineering",
+    "date_period": "January 1, 2026",
+    "source_url_1": "https://profiles.rice.edu/faculty/guilherme-marega",
+    "source_url_2": "",
+    "verified": true,
+    "department": "MSNE"
   }
 ]
