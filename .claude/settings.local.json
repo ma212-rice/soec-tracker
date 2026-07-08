@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python3 *)",
+      "Bash(find *)",
+      "Bash(wc *)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "Bash(date *)",
+      "Bash(python3 -c ' *)",
+      "Read(//tmp/**)",
+      "Bash(cat /tmp/tracker_raw.txt)",
+      "Bash(git add *)"
+    ]
+  }
+}
