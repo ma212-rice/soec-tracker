@@ -20,7 +20,12 @@ Extract these optional flags from `$ARGUMENTS`:
 
 ## STEP 1 — Load Existing Data
 
-Read `rice_soec_tracker.json`. This is your deduplication baseline — a JSON array of objects each with keys: `faculty_name`, `activity_type`, `description`, `organization_venue`, `date_period`, `source_url_1`, `source_url_2`, `verified`, `department`.
+Read `rice_soec_tracker.json`. It is a JSON object with three top-level keys:
+- `last_updated`: ISO date string (`YYYY-MM-DD`) of the last update run
+- `record_count`: integer count of records in `records`
+- `records`: the array of record objects, each with keys `faculty_name`, `activity_type`, `description`, `organization_venue`, `date_period`, `source_url_1`, `source_url_2`, `verified`, `department`
+
+Use `records` as your deduplication baseline.
 
 ---
 
@@ -159,9 +164,11 @@ If no new records were found, say so explicitly for each faculty member searched
 ### 8a. Update `rice_soec_tracker.json`
 
 1. Read the current `rice_soec_tracker.json`
-2. Append all new **verified** records (verified: true) to the JSON array
-3. Write the complete updated array back to `rice_soec_tracker.json`
-4. Do NOT modify any existing records
+2. Append all new **verified** records (verified: true) to the `records` array
+3. Set `last_updated` to today's date in `YYYY-MM-DD` format
+4. Set `record_count` to the new total length of `records`
+5. Write the complete updated object (`last_updated`, `record_count`, `records`) back to `rice_soec_tracker.json`
+6. Do NOT modify any existing records
 
 ### 8b. Update `soec_faculty_dashboard.html`
 
