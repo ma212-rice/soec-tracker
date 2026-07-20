@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08",
-  "record_count": 279,
+  "last_updated": "2026-07-20",
+  "record_count": 286,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3070,6 +3070,83 @@
       "source_url_2": "",
       "verified": true,
       "department": "MSNE"
+    },
+    {
+      "faculty_name": "Nakul Garg",
+      "activity_type": "Award / Honor",
+      "description": "Won the 2026 ACM SIGMOBILE Doctoral Dissertation Award for the dissertation 'Toward Integrating Intelligence Into Everything Around Us,' recognized for enabling ambient intelligence in extreme resource-constrained environments through physics-aware sensing architectures.",
+      "organization_venue": "ACM SIGMOBILE",
+      "date_period": "Announced May 26, 2026",
+      "source_url_1": "https://www.sigmobile.org/grav/news/article-22",
+      "source_url_2": "https://profiles.rice.edu/faculty/nakul-garg",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Santiago Segarra",
+      "activity_type": "Published Paper",
+      "description": "Co-authored 'GSP Cochlea: A graph signal processing approach for studying sound encoding' in PNAS Nexus, modeling the cochlea as a network to show how mesh topologies enable denoising and efficient information transfer, with application to assessing hearing loss.",
+      "organization_venue": "PNAS Nexus (Oxford University Press), Vol. 5, Issue 5",
+      "date_period": "Published April 21, 2026 (May 2026 issue)",
+      "source_url_1": "https://academic.oup.com/pnasnexus/article/5/5/pgag134/8659885",
+      "source_url_2": "https://news.rice.edu/news/2026/dateline-rice-july-1-2026",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Raudel Avila",
+      "activity_type": "Published Paper",
+      "description": "Co-corresponding author of 'Magnetically levitated metasurface enabling tangible and bidirectional human-machine interaction' in Science Advances, presenting a soft shape-shifting surface that senses and reconstructs its own 3D deformation in real time without external cameras.",
+      "organization_venue": "Science Advances (AAAS)",
+      "date_period": "June 26, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-researchers-develop-shape-shifting-surface-next-generation-human-machine-interaction",
+      "source_url_2": "https://www.science.org/doi/10.1126/sciadv.aeg0480",
+      "verified": true,
+      "department": "MECH"
+    },
+    {
+      "faculty_name": "Lane Martin",
+      "activity_type": "Published Paper",
+      "description": "Contributed to 'Breaking symmetry yields a low-loss out-of-plane tunable microwave dielectric' in Nature Electronics, achieving a tenfold improvement in out-of-plane figure of merit for Ruddlesden-Popper varactor dielectrics.",
+      "organization_venue": "Nature Electronics",
+      "date_period": "June 15, 2026",
+      "source_url_1": "https://news.cornell.edu/stories/2026/06/researchers-achieve-impossible-low-loss-tunable-dielectric",
+      "source_url_2": "https://www.nature.com/articles/s41928-026-01651-y",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Edward W. Knightly",
+      "activity_type": "Academy",
+      "description": "Elected a Fellow of the American Association for the Advancement of Science for research on high-performance wireless technologies that impacted Wi-Fi and for advancing community-focused connectivity through large-scale experimental networks.",
+      "organization_venue": "American Association for the Advancement of Science (AAAS)",
+      "date_period": "Announced March 26, 2026; Fellows Forum March 29, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/5-rice-researchers-elected-aaas-fellows",
+      "source_url_2": "https://www.aaas.org/page/2025-fellows",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Marcia O'Malley",
+      "activity_type": "Academy",
+      "description": "Elected a Fellow of the American Association for the Advancement of Science for outstanding contributions to the design and control of wearable and assistive robotics and haptic feedback systems and for professional leadership.",
+      "organization_venue": "American Association for the Advancement of Science (AAAS)",
+      "date_period": "Announced March 26, 2026; Fellows Forum March 29, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/5-rice-researchers-elected-aaas-fellows",
+      "source_url_2": "https://www.aaas.org/page/2025-fellows",
+      "verified": true,
+      "department": "MECH"
+    },
+    {
+      "faculty_name": "Naomi J. Halas",
+      "activity_type": "Society Leadership",
+      "description": "Elected to the Council of the National Academy of Sciences, the academy's governing body, which sets NAS scientific priorities and guides its national work.",
+      "organization_venue": "National Academy of Sciences",
+      "date_period": "Announced February 5, 2026; three-year term beginning July 1, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rices-halas-elected-governing-council-national-academy-sciences",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
     }
   ]
 }
