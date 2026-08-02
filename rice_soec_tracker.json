@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20",
-  "record_count": 286,
+  "last_updated": "2026-08-02",
+  "record_count": 291,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3147,6 +3147,61 @@
       "source_url_2": "",
       "verified": true,
       "department": "ECE"
+    },
+    {
+      "faculty_name": "Gang Bao",
+      "activity_type": "Collaboration",
+      "description": "Received an approximately $2 million CPRIT core facility renewal award to expand Rice's Genetic Design and Engineering Center (GDEC) with an automated mammalian cell engineering hub.",
+      "organization_venue": "Cancer Prevention and Research Institute of Texas (CPRIT) / Rice GDEC",
+      "date_period": "June 8, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/new-cprit-awards-expand-rice-cancer-research-efforts",
+      "source_url_2": "",
+      "verified": true,
+      "department": "BIOE"
+    },
+    {
+      "faculty_name": "Anastasios Kyrillidis",
+      "activity_type": "Award / Honor",
+      "description": "Earned a U.S. Department of Energy Genesis Mission (Phase I) award to develop AI methods that overcome computational bottlenecks in quantum chemistry and materials research via improved optimization of variational quantum algorithms.",
+      "organization_venue": "U.S. Department of Energy (Genesis Mission)",
+      "date_period": "July 22, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CS"
+    },
+    {
+      "faculty_name": "Menachem Elimelech",
+      "activity_type": "Published Paper",
+      "description": "Lead author of an invited Perspective in Nature Water charting a path to next-generation water and energy membranes through control of molecular-scale transport.",
+      "organization_venue": "Nature Water",
+      "date_period": "February 18, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/new-rice-led-perspective-charts-path-next-generation-water-and-energy-membranes",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CEE"
+    },
+    {
+      "faculty_name": "Michael R. King",
+      "activity_type": "Published Paper",
+      "description": "Corresponding author of a study in Advanced Science showing mechanoresistance can be induced in prostate cancer cells, revealing how they survive high-stress environments (lead author Abigail Fabiano).",
+      "organization_venue": "Advanced Science",
+      "date_period": "July 21, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/new-mechanoresistant-cancer-cells-show-how-they-survive-high-stress-environments",
+      "source_url_2": "",
+      "verified": true,
+      "department": "BIOE"
+    },
+    {
+      "faculty_name": "Jun Lou",
+      "activity_type": "Collaboration",
+      "description": "Principal investigator of a $19.9 million NSF award establishing an AI-powered, cloud-based materials laboratory to accelerate electronic and quantum materials manufacturing.",
+      "organization_venue": "National Science Foundation (NSF)",
+      "date_period": "July 23, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/accelerating-discovery-rice-receives-nearly-20m-nsf-award-ai-powered-materials-laboratory",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MSNE"
     }
   ]
 }
