@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02",
-  "record_count": 291,
+  "last_updated": "2026-08-11",
+  "record_count": 299,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3202,6 +3202,94 @@
       "source_url_2": "",
       "verified": true,
       "department": "MSNE"
+    },
+    {
+      "faculty_name": "Geoffrey Wehmeyer",
+      "activity_type": "Award / Honor",
+      "description": "Received the Award for Excellence in Teaching in the George R. Brown School of Engineering and Computing at Rice's annual faculty excellence recognition.",
+      "organization_venue": "Rice University George R. Brown School of Engineering and Computing",
+      "date_period": "April 20, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/faculty-staff-students-honored-excellence-teaching-mentoring-service",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MECH"
+    },
+    {
+      "faculty_name": "Jamie E. Padgett",
+      "activity_type": "Award / Honor",
+      "description": "Received the Presidential Award for Mentoring at Rice's annual faculty, staff and student excellence awards.",
+      "organization_venue": "Rice University (Office of the President)",
+      "date_period": "April 20, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/faculty-staff-students-honored-excellence-teaching-mentoring-service",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CEE"
+    },
+    {
+      "faculty_name": "Marcia O'Malley",
+      "activity_type": "Award / Honor",
+      "description": "Received the Provost's Award for Outstanding Doctoral Adviser, recognizing excellence in mentoring doctoral students.",
+      "organization_venue": "Rice University (Office of the Provost)",
+      "date_period": "April 20, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/faculty-staff-students-honored-excellence-teaching-mentoring-service",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MECH"
+    },
+    {
+      "faculty_name": "Haotian Wang",
+      "activity_type": "Award / Honor",
+      "description": "Received the Provost's Award for Outstanding Early Career Achievement, recognizing exceptional early-career research and scholarship.",
+      "organization_venue": "Rice University (Office of the Provost)",
+      "date_period": "April 20, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/faculty-staff-students-honored-excellence-teaching-mentoring-service",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Naomi J. Halas",
+      "activity_type": "Award / Honor",
+      "description": "Received the Jack Gill Award for Innovation and Entrepreneurship Excellence at Rice's annual excellence awards.",
+      "organization_venue": "Rice University",
+      "date_period": "April 20, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/faculty-staff-students-honored-excellence-teaching-mentoring-service",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Lydia E. Kavraki",
+      "activity_type": "Award / Honor",
+      "description": "Received the Exceptional Scholar Award for Sustained Excellence, honoring senior faculty for sustained contributions in research and scholarship.",
+      "organization_venue": "Rice University",
+      "date_period": "April 20, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/faculty-staff-students-honored-excellence-teaching-mentoring-service",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CS"
+    },
+    {
+      "faculty_name": "Michal S. Wong",
+      "activity_type": "Award / Honor",
+      "description": "Received the Rice Faculty Award for Excellence in Research, Teaching and Service.",
+      "organization_venue": "Rice University",
+      "date_period": "April 20, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/faculty-staff-students-honored-excellence-teaching-mentoring-service",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Qilin Li",
+      "activity_type": "Award / Honor",
+      "description": "Named the 2026 recipient of the Walter J. Weber, Jr. AEESP Frontier in Research Award for pioneering research in resilient, sustainable and affordable urban water infrastructures.",
+      "organization_venue": "Association of Environmental Engineering and Science Professors (AEESP)",
+      "date_period": "2026",
+      "source_url_1": "https://www.aeespfoundation.org/awards/frontier-research",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CEE"
     }
   ]
 }
