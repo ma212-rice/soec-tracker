@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11",
-  "record_count": 299,
+  "last_updated": "2026-08-28",
+  "record_count": 302,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3290,6 +3290,39 @@
       "source_url_2": "",
       "verified": true,
       "department": "CEE"
+    },
+    {
+      "faculty_name": "Pulickel Ajayan",
+      "activity_type": "Published Paper",
+      "description": "Senior author of a study showing that nanoscale wrinkles in graphene can reshape its electrical properties through flexoelectricity, published in Advanced Materials.",
+      "organization_venue": "Advanced Materials",
+      "date_period": "August 12, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-researchers-show-graphene-nanowrinkles-can-reshape-electricity",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Rebecca Richards-Kortum",
+      "activity_type": "Collaboration",
+      "description": "Leading the Rice360 'Access BreastDX' project — an affordable, AI-enabled point-of-care system for same-day breast tissue evaluation in rural Texas clinics — supported by a 2026 Hill Prizes ad hoc grant from TAMEST and Lyda Hill Philanthropies.",
+      "organization_venue": "Rice360 Institute for Global Health Technologies / TAMEST Hill Prizes",
+      "date_period": "August 25, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice360-project-aims-bring-faster-breast-cancer-diagnosis-rural-texas",
+      "source_url_2": "",
+      "verified": true,
+      "department": "BIOE"
+    },
+    {
+      "faculty_name": "Ashok Veeraraghavan",
+      "activity_type": "Collaboration",
+      "description": "Collaborator on the Rice360 'Access BreastDX' project developing an affordable, AI-enabled point-of-care breast cancer diagnostic system for rural Texas, funded by a 2026 Hill Prizes ad hoc grant (TAMEST / Lyda Hill Philanthropies).",
+      "organization_venue": "Rice360 Institute for Global Health Technologies / TAMEST Hill Prizes",
+      "date_period": "August 25, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice360-project-aims-bring-faster-breast-cancer-diagnosis-rural-texas",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
     }
   ]
 }
