@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28",
-  "record_count": 302,
+  "last_updated": "2026-09-11",
+  "record_count": 304,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3323,6 +3323,28 @@
       "source_url_2": "",
       "verified": true,
       "department": "ECE"
+    },
+    {
+      "faculty_name": "Reginald DesRoches",
+      "activity_type": "Academy",
+      "description": "Elected to the National Academy of Construction (NAC) Class of 2026 — cited for construction research excellence, educational innovation and interdisciplinary collaboration; among only 18 members holding NAC and NAE membership plus ASCE distinguished membership.",
+      "organization_venue": "National Academy of Construction",
+      "date_period": "Announced June 29, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-president-desroches-elected-national-academy-construction",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CEE"
+    },
+    {
+      "faculty_name": "B.J. Fregly",
+      "activity_type": "Award / Honor",
+      "description": "Inducted into the 2026 Class of the AIMBE College of Fellows — recognizing outstanding contributions to medical and biological engineering; induction held at the AIMBE Annual Meeting in Washington, D.C.",
+      "organization_venue": "American Institute for Medical and Biological Engineering (AIMBE)",
+      "date_period": "April 13, 2026",
+      "source_url_1": "https://aimbe.org/aimbe-elects-2026-fellows/",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MECH"
     }
   ]
 }
