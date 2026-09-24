@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11",
-  "record_count": 304,
+  "last_updated": "2026-09-24",
+  "record_count": 322,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3345,6 +3345,204 @@
       "source_url_2": "",
       "verified": true,
       "department": "MECH"
+    },
+    {
+      "faculty_name": "Boris Yakobson",
+      "activity_type": "Published Paper",
+      "description": "Co-authored a Physical Review Letters study (DOI 10.1103/8vd7-ffng) defining a new material blueprint for next-generation microchip encryption hardware.",
+      "organization_venue": "Physical Review Letters",
+      "date_period": "September 24, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-physicists-define-new-material-blueprint-next-generation-microchip-encryption",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Sibani Lisa Biswal",
+      "activity_type": "Published Paper",
+      "description": "Led a Physical Review Research study (DOI 10.1103/jn1b-y4cx) showing that an extra rotational “turn” can be the key to forming perfect colloidal crystals.",
+      "organization_venue": "Physical Review Research",
+      "date_period": "September 22, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/secret-perfect-crystal-may-be-extra-turn",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Matteo Pasquali",
+      "activity_type": "Published Paper",
+      "description": "Co-authored a PNAS study (DOI 10.1073/pnas.2612044123) reporting a liquid crystal that undergoes a surprising steel-like (martensitic) phase transition.",
+      "organization_venue": "Proceedings of the National Academy of Sciences (PNAS)",
+      "date_period": "September 21, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/liquid-crystal-takes-page-steel-surprising-phase-transition",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Vanessa Sanchez",
+      "activity_type": "Award / Honor",
+      "description": "Received a Toyota Programmable System Innovation Fellowship to develop programmable 3D-knitted soft robotic textiles for human-centered mobility.",
+      "organization_venue": "Toyota",
+      "date_period": "September 15, 2026 (announced September 16, 2026)",
+      "source_url_1": "https://news.rice.edu/news/2026/rices-sanchez-exploring-future-where-fabric-itself-becomes-robot",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MECH"
+    },
+    {
+      "faculty_name": "Pulickel Ajayan",
+      "activity_type": "Collaboration",
+      "description": "Led a Rice materials science team collaborating with artist Jitish Kallat and the Menil Collection on electrochromic and liquid-crystal glass for an art installation.",
+      "organization_venue": "The Menil Collection",
+      "date_period": "September 15, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-materials-science-brings-hidden-history-view-menil-collection",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Robert Vajtai",
+      "activity_type": "Collaboration",
+      "description": "Collaborated with artist Jitish Kallat and the Menil Collection to engineer switchable-transparency glass (electrochromic and polymer-dispersed liquid crystal) for an art installation.",
+      "organization_venue": "The Menil Collection",
+      "date_period": "September 15, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-materials-science-brings-hidden-history-view-menil-collection",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Karen Lozano",
+      "activity_type": "Conference",
+      "description": "Convened the inaugural Texas Materials Consortium at Rice, bringing together statewide materials science leadership.",
+      "organization_venue": "Texas Materials Consortium (Rice University)",
+      "date_period": "September 18, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-convenes-statewide-scientific-leadership-build-momentum-inaugural-texas-materials",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Qilin Li",
+      "activity_type": "Faculty Talk",
+      "description": "Panelist on a Rice panel on moving water research from university labs through regulation to commercialization at Rice's Texas water challenges convening.",
+      "organization_venue": "Rice WaTER Institute water nexus convening",
+      "date_period": "September 17, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-convenes-leaders-address-texas-water-challenges",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CEE"
+    },
+    {
+      "faculty_name": "Gang Bao",
+      "activity_type": "Conference",
+      "description": "Co-organized the International Society for Engineering Health summit at Rice, launching the new society's mission to eliminate major diseases through engineering.",
+      "organization_venue": "International Society for Engineering Health (ISEH) Summit, Rice University",
+      "date_period": "September 10–11, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/new-international-society-takes-aim-eliminating-major-diseases-rice-summit",
+      "source_url_2": "",
+      "verified": true,
+      "department": "BIOE"
+    },
+    {
+      "faculty_name": "Ashutosh Sabharwal",
+      "activity_type": "Conference",
+      "description": "Faculty organizer of Rice's inaugural Electromagnetics to Intelligence (EM2AI) industry workshop on next-generation communications, sensing and imaging.",
+      "organization_venue": "EM2AI Workshop, Rice University",
+      "date_period": "August 31, 2026",
+      "source_url_1": "https://engineering.rice.edu/news/rice-university-convenes-industry-leaders-inaugural-electromagnetics-intelligence-em2ai",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Rahman Doost-Mohammady",
+      "activity_type": "Conference",
+      "description": "Faculty organizer of Rice's inaugural Electromagnetics to Intelligence (EM2AI) industry workshop on next-generation communications, sensing and imaging.",
+      "organization_venue": "EM2AI Workshop, Rice University",
+      "date_period": "August 31, 2026",
+      "source_url_1": "https://engineering.rice.edu/news/rice-university-convenes-industry-leaders-inaugural-electromagnetics-intelligence-em2ai",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Guha Balakrishnan",
+      "activity_type": "Collaboration",
+      "description": "Principal investigator on a three-year, $900,000 NSF grant to reinvent cameras with generative AI using sparse measurements for distributed camera networks.",
+      "organization_venue": "National Science Foundation",
+      "date_period": "September 1, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-project-aims-reinvent-cameras-generative-ai",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Vicente Ordoñez Román",
+      "activity_type": "Collaboration",
+      "description": "Co-principal investigator on a three-year, $900,000 NSF grant to reinvent cameras with generative AI using sparse measurements.",
+      "organization_venue": "National Science Foundation",
+      "date_period": "September 1, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-project-aims-reinvent-cameras-generative-ai",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CS"
+    },
+    {
+      "faculty_name": "Chen Wei",
+      "activity_type": "Collaboration",
+      "description": "Co-principal investigator on a three-year, $900,000 NSF grant to reinvent cameras with generative AI using sparse measurements.",
+      "organization_venue": "National Science Foundation",
+      "date_period": "September 1, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-project-aims-reinvent-cameras-generative-ai",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CS"
+    },
+    {
+      "faculty_name": "Jacob T. Robinson",
+      "activity_type": "Published Paper",
+      "description": "Co-authored an ACS Nano study (DOI 10.1021/acsnano.6c08263) showing an electrical fingerprint on extracellular vesicles could offer a new way to detect pancreatic cancer signals.",
+      "organization_venue": "ACS Nano",
+      "date_period": "September 1, 2026 (Rice News September 9, 2026)",
+      "source_url_1": "https://news.rice.edu/news/2026/electrical-fingerprint-tiny-cell-particles-could-offer-new-way-spot-pancreatic-cancer",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Sibani Lisa Biswal",
+      "activity_type": "Published Paper",
+      "description": "Co-authored an ACS Nano study (DOI 10.1021/acsnano.6c08263) on electrical signatures of tiny cell-derived particles as a potential pancreatic cancer indicator.",
+      "organization_venue": "ACS Nano",
+      "date_period": "September 1, 2026 (Rice News September 9, 2026)",
+      "source_url_1": "https://news.rice.edu/news/2026/electrical-fingerprint-tiny-cell-particles-could-offer-new-way-spot-pancreatic-cancer",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Schengxi Huang",
+      "activity_type": "Academy",
+      "description": "Elected a Fellow of SPIE, the international society for optics and photonics, in its 2026 class of 59 fellows.",
+      "organization_venue": "SPIE",
+      "date_period": "August 12, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rices-huang-elected-fellow-spie-contributions-optics-and-photonics",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Antonios Mikos",
+      "activity_type": "Published Paper",
+      "description": "Senior author of a Cell Biomaterials study showing electrical charge modifications to gelatin microparticles improve controlled peptide delivery for tissue regeneration.",
+      "organization_venue": "Cell Biomaterials",
+      "date_period": "August 6, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-researchers-use-electrical-charge-improve-controlled-peptide-delivery",
+      "source_url_2": "https://www.sciencedirect.com/science/article/pii/S3050562326002096",
+      "verified": true,
+      "department": "BIOE"
     }
   ]
 }
