@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24",
-  "record_count": 322,
+  "last_updated": "2026-10-09",
+  "record_count": 334,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3543,6 +3543,138 @@
       "source_url_2": "https://www.sciencedirect.com/science/article/pii/S3050562326002096",
       "verified": true,
       "department": "BIOE"
+    },
+    {
+      "faculty_name": "Karen Lozano",
+      "activity_type": "New Appointment",
+      "description": "Named director of Rice's Tapia Center for Empowerment through STEM Education, succeeding the center's late founder Richard A. Tapia.",
+      "organization_venue": "Rice University George R. Brown School of Engineering and Computing",
+      "date_period": "October 1, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-engineering-and-computing-names-karen-lozano-director-tapia-center-empowerment",
+      "source_url_2": "",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Avantika Gori",
+      "activity_type": "Collaboration",
+      "description": "Principal investigator on a project using a NASA AI model to improve hurricane risk estimates.",
+      "organization_venue": "NASA",
+      "date_period": "October 2, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-researchers-use-nasa-ai-model-improve-hurricane-risk-estimates",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CEE"
+    },
+    {
+      "faculty_name": "Guha Balakrishnan",
+      "activity_type": "Collaboration",
+      "description": "Co-investigator on a project using a NASA AI model to improve hurricane risk estimates.",
+      "organization_venue": "NASA",
+      "date_period": "October 2, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-researchers-use-nasa-ai-model-improve-hurricane-risk-estimates",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Omid Veiseh",
+      "activity_type": "Published Paper",
+      "description": "Corresponding author of a Science Advances study on a once-yearly “living pharmacy” cell-based therapy that delivers monoclonal antibodies at sustained, tunable doses inside the body.",
+      "organization_venue": "Science Advances",
+      "date_period": "September 30, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-biotech-launch-pad-invents-living-pharmacy-designed-produce-therapeutics-inside-body",
+      "source_url_2": "",
+      "verified": true,
+      "department": "BIOE"
+    },
+    {
+      "faculty_name": "Stavroula Kampouri",
+      "activity_type": "Published Paper",
+      "description": "Corresponding author of a Chemical Science study (DOI 10.1039/d6sc06134f) showing a softer porous material could help improve solid-state batteries.",
+      "organization_venue": "Chemical Science (RSC)",
+      "date_period": "September 29, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/softer-porous-material-could-help-improve-solid-state-batteries",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Sibani Lisa Biswal",
+      "activity_type": "Published Paper",
+      "description": "Co-authored a Chemical Science study (DOI 10.1039/d6sc06134f) on a softer porous material for improved solid-state batteries.",
+      "organization_venue": "Chemical Science (RSC)",
+      "date_period": "September 29, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/softer-porous-material-could-help-improve-solid-state-batteries",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Vicky Yao",
+      "activity_type": "Conference",
+      "description": "Co-organizer and planning committee chair of Rice's fifth annual AI in Health Conference on AI, ethics and innovation in health care.",
+      "organization_venue": "AI in Health Conference, Rice University",
+      "date_period": "September 2026 (Rice News September 29, 2026)",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-explores-ai-ethics-and-innovation-health-care-annual-ai-health-conference",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CS"
+    },
+    {
+      "faculty_name": "Luay Nakhleh",
+      "activity_type": "Faculty Talk",
+      "description": "Delivered opening remarks at Rice's fifth annual AI in Health Conference.",
+      "organization_venue": "AI in Health Conference, Rice University",
+      "date_period": "September 2026 (Rice News September 29, 2026)",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-explores-ai-ethics-and-innovation-health-care-annual-ai-health-conference",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CS"
+    },
+    {
+      "faculty_name": "Marina Vannucci",
+      "activity_type": "Published Paper",
+      "description": "Co-authored a Journal of Quantitative Analysis of Sports paper (DOI 10.1515/jqas-2026-0012) presenting a statistical method for reconciling competing sports rankings.",
+      "organization_venue": "Journal of Quantitative Analysis of Sports",
+      "date_period": "September 28, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/whos-really-no-1-rice-statisticians-build-better-way-make-sense-competing-sports-rankings",
+      "source_url_2": "",
+      "verified": true,
+      "department": "STAT"
+    },
+    {
+      "faculty_name": "Thomas Senftle",
+      "activity_type": "Collaboration",
+      "description": "Co-hosts PodCAT, a catalysis science podcast, with Marc Porosoff (University of Rochester) and Ezra Clark (Penn State).",
+      "organization_venue": "PodCAT podcast",
+      "date_period": "October 6, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/catalytic-confessions-and-quest-matt-damon-podcat-puts-science-mic",
+      "source_url_2": "",
+      "verified": true,
+      "department": "CHBE"
+    },
+    {
+      "faculty_name": "Rober LiKamWa",
+      "activity_type": "Collaboration",
+      "description": "Led the EXP Lab in engineering immersive public art installations on the Rice campus, including an audiovisual Sallyport installation, for the Sustainable Ecologies initiative around the FIFA World Cup.",
+      "organization_venue": "Rice University EXP Lab / Sustainable Ecologies initiative",
+      "date_period": "Summer 2026 (article September 30, 2026)",
+      "source_url_1": "https://eceweb.rice.edu/news/behind-pixels-exp-lab-students-engineer-immersive-public-art-rice-1",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Ashutosh Sabharwal",
+      "activity_type": "Collaboration",
+      "description": "Helped launch the Rice ECE–National Yang Ming Chiao Tung University (NYCU) partnership creating a new pathway for international engineering students.",
+      "organization_venue": "National Yang Ming Chiao Tung University (NYCU)",
+      "date_period": "October 1, 2026",
+      "source_url_1": "https://eceweb.rice.edu/news/rice-electrical-and-computer-engineering-and-nycu-partnership-creates-new-pathway",
+      "source_url_2": "",
+      "verified": true,
+      "department": "ECE"
     }
   ]
 }
