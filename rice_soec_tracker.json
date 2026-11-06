@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09",
-  "record_count": 334,
+  "last_updated": "2026-11-06",
+  "record_count": 339,
   "records": [
     {
       "faculty_name": "Pedro J.J. Alvarez",
@@ -3675,6 +3675,61 @@
       "source_url_2": "",
       "verified": true,
       "department": "ECE"
+    },
+    {
+      "faculty_name": "Qilin Li",
+      "activity_type": "Published Paper",
+      "description": "Corresponding author of a study in ACS Applied Materials & Interfaces presenting an ultraporous, PMIDA-modified metal-organic framework that selectively recovers rare earth elements (neodymium, gadolinium, dysprosium) from industrial wastewater.",
+      "organization_venue": "ACS Applied Materials & Interfaces",
+      "date_period": "October 21, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-researchers-modify-nobel-prize-winning-material-recover-valuable-rare-earth-elements",
+      "source_url_2": "https://doi.org/10.1021/acsami.6c16452",
+      "verified": true,
+      "department": "CEE"
+    },
+    {
+      "faculty_name": "Lane Martin",
+      "activity_type": "Published Paper",
+      "description": "Co-corresponding author of a PNAS study demonstrating strong intrinsic multiferroism and magnetoelectric coupling in strained BiFeO3-BaTiO3 thin films at room temperature, a step toward low-energy computing.",
+      "organization_venue": "Proceedings of the National Academy of Sciences (PNAS)",
+      "date_period": "April 28, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/room-temperature-multiferroic-could-pave-way-low-energy-computing",
+      "source_url_2": "https://doi.org/10.1073/pnas.2603475123",
+      "verified": true,
+      "department": "MSNE"
+    },
+    {
+      "faculty_name": "Naomi J. Halas",
+      "activity_type": "Published Paper",
+      "description": "Co-corresponding author of a Cell Reports Physical Science study adapting a laser Q-switching principle to thermal systems, letting a steady heat input be stored and released in controllable on-demand bursts.",
+      "organization_venue": "Cell Reports Physical Science",
+      "date_period": "November 5, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-engineers-adapt-laser-physics-trick-deliver-heat-demand",
+      "source_url_2": "https://doi.org/10.1016/j.xcrp.2026.103593",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Alessandro Alabastri",
+      "activity_type": "Published Paper",
+      "description": "Co-corresponding author of a Cell Reports Physical Science study adapting a laser Q-switching principle to thermal systems to deliver on-demand heat bursts from a steady input.",
+      "organization_venue": "Cell Reports Physical Science",
+      "date_period": "November 5, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-engineers-adapt-laser-physics-trick-deliver-heat-demand",
+      "source_url_2": "https://doi.org/10.1016/j.xcrp.2026.103593",
+      "verified": true,
+      "department": "ECE"
+    },
+    {
+      "faculty_name": "Geoffrey Wehmeyer",
+      "activity_type": "Published Paper",
+      "description": "Faculty co-author of a Cell Reports Physical Science study adapting a laser Q-switching principle to thermal systems to store and release heat in controllable bursts.",
+      "organization_venue": "Cell Reports Physical Science",
+      "date_period": "November 5, 2026",
+      "source_url_1": "https://news.rice.edu/news/2026/rice-engineers-adapt-laser-physics-trick-deliver-heat-demand",
+      "source_url_2": "https://doi.org/10.1016/j.xcrp.2026.103593",
+      "verified": true,
+      "department": "MECH"
     }
   ]
 }
